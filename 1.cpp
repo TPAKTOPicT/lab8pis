@@ -88,10 +88,9 @@ int main()
     else
     {
         cout << "Наиболее населенное испаноязычное государство:" << cou_s[most_i].country << endl;
-        cout << "Со столицей в:" << cou_s[most_i].capital << endl;
-		cout << endl << "no hello" << endl;
-		cout << endl << "yes hello" << endl;
+        cout << "Со столицей в:" << cou_s[most_i].capital << endl;	
     }
+	cout << "hello";
 
     return 0;
 }
